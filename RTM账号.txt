@@ -1,0 +1,25 @@
+RoadmapWeb	路紙Web，提供電投百家樂使用	rmweb.rtm.net	80				星聯盟RTM-後台帳號 (QA)	
+StarFrontWeb1	星聯盟 前台1-直營	      starweb01.rtm.net	80					QA-CN
+StarFrontWeb2	星聯盟 前台2	              starweb02.rtm.net	80				後台使用者	CNQA
+BackOffice	公司後台	              backoffice.rtm.net80				賭桌經理	1010
+IBOffice	代理後台	                iboffice.rtm.net80				荷官	        2030
+DealerWeb	荷官Web系統	              dealer.rtm.net	80					        2031
+ServerWebTool	伺服器Web工具	              ServerWebTool.rtm.net  8011					2032
+								                                                2033
+							槍手	3030
+								3031
+								3032
+								3033
+								3034
+                                                                3035
+                                                                3036
+                                                                3037
+								
+							星聯盟RTM  (QA)	
+								QA-CN
+							最高代理	"帳號:A001
+AgentCode:1111"
+							一般代理	N/A
+							玩家	C001~C050 現金
+								C100~C150 信用
+
